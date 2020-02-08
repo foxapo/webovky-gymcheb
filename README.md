@@ -13,5 +13,14 @@
 5) Pro spuštění webového serveru se musí použít ovládací panel xamppu, pro začátek stačí spustit pouze apache, který běží na portu 80
 6) Po spuštění apache si stačí zobrazit stránky tím, že do prohlížeče zadáte localhost nebo 127.0.0.1
 
+# CSS3 generator
+http://css3generator.com/
+
+# Color palette
+https://paletton.com/
+
+# W3 Schools
+https://www.w3schools.com/html/html_intro.asp
+
 ## 
 

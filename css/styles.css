@@ -1,0 +1,123 @@
+/* Colors */
+
+.blue {
+    color: #014666;
+}
+
+.blue-bg {
+    background-color: #014666;
+}
+
+.light-blue {
+    color: #85A4BF;
+}
+
+.light-blue-bg {
+    background-color: #85A4BF;
+}
+
+.white {
+    color: #FDFFF2;
+}
+
+.white-bg {
+    background-color: #FDFFF2;
+}
+
+.green {
+    color: #B1D1BD;
+}
+
+.green-bg {
+    background-color: #B1D1BD;
+}
+
+.grey {
+    color: #9b8b8b;
+}
+
+.grey-bg {
+    background-color: #9b8b8b;
+}
+
+
+/* hlavni prvky */
+
+html {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+body {
+    background-color: #FDFFF2;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #014666;
+}
+
+#navigace {
+    text-align: center;
+    border-radius: 20px;
+    background-color: #B1D1BD;
+    padding: 20px;
+}
+
+#navigace a {
+    font-size: 20px;
+    margin: 0 30px;
+    background-color: #85A4BF;
+    padding: 10px;
+    border-radius: 20px;
+    display: inline-block;
+    width: 150px;
+}
+
+#navigace a:hover {
+    background-color: #014666;
+    color: #FDFFF2;
+}
+
+
+/* tridy */
+
+.hlavni_container {
+    width: 75%;
+    margin: 0 auto;
+}
+
+.screenshot {
+    border-radius: 10px;
+    border: 2px #014666 solid;
+}
+
+.ovladaci_panel {
+    background-color: burlywood;
+}
+
+.color-code {
+    color: black;
+    font-weight: bold;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+tr,
+td {
+    width: 50%;
+    padding: 5px;
+}
+
+table tr td {
+    border: 1px #014666 solid;
+    color: #9b8b8b;
+    font-weight: bold;
+}
